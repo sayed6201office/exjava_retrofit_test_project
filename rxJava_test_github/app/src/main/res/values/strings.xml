@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">rxJava test</string>
+    <string name="user_name">Enter git username</string>
+    <string name="search">search repo</string>
+</resources>

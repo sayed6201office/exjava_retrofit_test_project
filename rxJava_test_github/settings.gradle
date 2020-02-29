@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='rxJava_test_github'
